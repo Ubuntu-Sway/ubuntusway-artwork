@@ -24,7 +24,7 @@ Description: wallpapers for Ubuntu Sway
 
 Package: ubuntu-sway-themes
 Architecture: any
-Depends: ${misc:Depends}, qt5-style-kvantum, yaru-theme-gtk, yaru-theme-icon
+Depends: ${misc:Depends}, qt5-style-kvantum, qt6-style-kvantum, yaru-theme-gtk, yaru-theme-icon
 Description: themes and color schemes for Ubuntu Sway desktop
  This package contains the default theming for Ubuntu Sway.
  
