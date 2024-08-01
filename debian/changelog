@@ -1,3 +1,15 @@
+ubuntu-sway-artwork (1.27~oracular) oracular; urgency=medium
+
+  * Temporary remove Qt5 kvantum plugin
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 01 Aug 2024 21:36:53 +0400
+
+ubuntu-sway-artwork (1.26~oracular) oracular; urgency=medium
+
+  * Initial upload to Oracular
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 28 Jul 2024 14:47:17 +0400
+
 ubuntu-sway-artwork (1.25~noble) noble; urgency=medium
 
   * Update wallpaper for Noble
