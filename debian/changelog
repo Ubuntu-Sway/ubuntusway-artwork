@@ -1,3 +1,9 @@
+ubuntu-sway-artwork (1.28~oracular) oracular; urgency=medium
+
+  * Fix colors with alpha
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 25 Aug 2024 10:56:49 +0400
+
 ubuntu-sway-artwork (1.27~oracular) oracular; urgency=medium
 
   * Temporary remove Qt5 kvantum plugin

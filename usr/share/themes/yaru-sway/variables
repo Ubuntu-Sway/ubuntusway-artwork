@@ -27,9 +27,9 @@ set $color14 #a074c4
 set $color15 #8a553f
 
 # Colors with alpha
-set $background-color $color0
-set $accent-color $color12
-set $text-color $color6
+set $background-color 2f2f2fff
+set $accent-color 317b79ff
+set $text-color ffffffff
 
 # Fonts
 set $term-font Hack 11
