@@ -1,3 +1,9 @@
+ubuntu-sway-artwork (1.29~oracular) oracular; urgency=medium
+
+  * Update wallpaper
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 22 Sep 2024 21:28:16 +0400
+
 ubuntu-sway-artwork (1.28~oracular) oracular; urgency=medium
 
   * Fix colors with alpha
