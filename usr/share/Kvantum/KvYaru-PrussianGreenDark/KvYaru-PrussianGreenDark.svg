@@ -6672,7 +6672,7 @@
     <path
        transform="matrix(0.72169,0,0,1,52.664,0.42535)"
        d="m 194.46,532.57 -6.9282,4 v -8 l 3.4641,2 z"
-       fill="#ffffff"
+       fill="#4b4b4b"
        id="path935-2" />
   </g>
   <g
@@ -7785,12 +7785,12 @@
     <path
        transform="matrix(0.72169,0,0,1,52.664,0.42535)"
        d="m 194.46,532.57 -6.9282,4 v -8 l 3.4641,2 z"
-       fill="#ffffff"
+       fill="#4b4b4b"
        id="path1270-3" />
   </g>
   <path
      d="m 388.99615,681.00464 5.00002,-4 v 8 l -2.50001,-2 z"
-     fill="#ffffff"
+     fill="#4b4b4b"
      id="menuitem-left-normal"
      style="stroke-width:0.849523" />
   <g
@@ -7806,7 +7806,7 @@
     <path
        transform="matrix(0.72169,0,0,1,52.664,0.42535)"
        d="m 194.46,532.57 -6.9282,4 v -8 l 3.4641,2 z"
-       fill="#ffffff"
+       fill="#4b4b4b"
        id="path1270-3-7" />
   </g>
   <g
@@ -8652,26 +8652,26 @@
      id="menuitem-normal-top"
      d="m 104.33653,712.43905 h 8.00001 v 3.99998 h -8.00001 z"
      opacity="0.1"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999;opacity:1" />
+     style="fill:#4b4b4b;fill-opacity:1;stroke-width:0.999999;opacity:1" />
   <path
      id="menuitem-normal-bottom"
      d="m 104.33653,724.43905 h 8.00001 v 3.99998 h -8.00001 z"
      opacity="0.1"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999;opacity:1" />
+     style="fill:#4b4b4b;fill-opacity:1;stroke-width:0.999999;opacity:1" />
   <path
      id="menuitem-normal"
      d="m 104.33653,716.43903 h 8.00001 v 8.00002 h -8.00001 z"
      opacity="0.1"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999;opacity:1" />
+     style="fill:#4b4b4b;fill-opacity:1;stroke-width:0.999999;opacity:1" />
   <g
      id="menuitem-normal-topleft"
      transform="translate(-92.663466,217.43905)"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#4b4b4b;fill-opacity:1">
     <path
        d="m 197,495 c -2.216,0 -4,1.784 -4,4 h 4 z"
        opacity="0.1"
        id="path1687"
-       style="opacity:1;fill:#ffffff;fill-opacity:1" />
+       style="opacity:1;fill:#4b4b4b;fill-opacity:1" />
   </g>
   <g
      id="menuitem-normal-topright"
@@ -8681,38 +8681,38 @@
        d="m 197,495 c -2.216,0 -4,1.784 -4,4 h 4 z"
        opacity="0.1"
        id="path1687-2"
-       style="opacity:1;fill:#ffffff;fill-opacity:1" />
+       style="opacity:1;fill:#4b4b4b;fill-opacity:1" />
   </g>
   <g
      id="menuitem-normal-bottomleft"
      transform="matrix(1,0,0,-1,-92.663466,1223.439)"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#4b4b4b;fill-opacity:1">
     <path
        d="m 197,495 c -2.216,0 -4,1.784 -4,4 h 4 z"
        opacity="0.1"
        id="path1687-0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1" />
+       style="opacity:1;fill:#4b4b4b;fill-opacity:1" />
   </g>
   <g
      id="menuitem-normal-bottomright"
      transform="matrix(0,-1,-1,0,611.33654,921.43914)"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#4b4b4b;fill-opacity:1">
     <path
        d="m 197,495 c -2.216,0 -4,1.784 -4,4 h 4 z"
        opacity="0.1"
        id="path1687-2-3"
-       style="opacity:1;fill:#ffffff;fill-opacity:1" />
+       style="opacity:1;fill:#4b4b4b;fill-opacity:1" />
   </g>
   <g
      id="menuitem-normal-left"
      transform="translate(-90.663468,219.43905)"
      fill-rule="evenodd"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#4b4b4b;fill-opacity:1">
     <path
        d="m 191,497 h 4 v 8 h -4 z"
        opacity="0.1"
        id="path1692"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1" />
+       style="opacity:1;fill:#4b4b4b;fill-opacity:1;stroke-width:1" />
   </g>
   <use
      id="menuitem-normal-right"
@@ -8722,7 +8722,7 @@
      xlink:href="#menuitem-normal-left"
      x="0"
      y="0"
-     style="fill:#ffffff;fill-opacity:1" />
+     style="fill:#4b4b4b;fill-opacity:1" />
   <rect
      id="menu-shadow-hint-bottom"
      x="-43.449188"
